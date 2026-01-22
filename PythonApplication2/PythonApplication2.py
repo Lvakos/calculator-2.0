@@ -12,6 +12,7 @@ while True:
         print("Kirjuta ainult arv")
         continue
 
+
 while True:
     deystvie = input("Выбери действие (*, /, +, -, квадрат: ")
     if deystvie == "*":
